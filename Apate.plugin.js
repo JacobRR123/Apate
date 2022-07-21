@@ -1,9 +1,9 @@
 /**
  * @name Apate
  * @author TheGreenPig, fabJunior, Aster
- * @source https://github.com/TheGreenPig/Apate/blob/main/Apate.plugin.js
- * @updateUrl https://raw.githubusercontent.com/TheGreenPig/Apate/main/Apate.plugin.js
- * @authorLink https://github.com/TheGreenPig
+ * @source https://github.com/JacobRR123/Apate/blob/main/Apate.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/JacobRR123/Apate/main/Apate.plugin.js
+ * @authorLink https://github.com/JacobRR123
  * @invite JsqBVSCugb
  */
 /* 
@@ -44,8 +44,8 @@ module.exports = (() => {
 			],
 			version: "1.5.7",
 			description: "Apate lets you hide messages in other messages! - Usage: `cover message \*hidden message\*`",
-			github_raw: "https://raw.githubusercontent.com/TheGreenPig/Apate/main/Apate.plugin.js",
-			github: "https://github.com/TheGreenPig/Apate"
+			github_raw: "https://raw.githubusercontent.com/JacobRR123/Apate/main/Apate.plugin.js",
+			github: "https://github.com/JacobRR123/Apate"
 		},
 		changelog: [
 			{
